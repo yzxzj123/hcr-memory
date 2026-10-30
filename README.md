@@ -73,6 +73,7 @@ HCR 与渠道无关。换一个平台，**模型不动**，只写一个适配器
 - [07 · 实现笔记](docs/07-implementation-notes.md)
 - [08 · 她是什么](docs/08-who-is-she.md)
 - [09 · 怎么接入一个新渠道](docs/09-adding-a-channel.md)
+- [10 · 踩坑清单](docs/10-pitfalls.md)
 
 ## 状态
 
