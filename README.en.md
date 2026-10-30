@@ -74,6 +74,7 @@ All documents are currently in Chinese.
 - [07 · Implementation notes](docs/07-implementation-notes.md)
 - [08 · What she is](docs/08-who-is-she.md)
 - [09 · Adding a channel](docs/09-adding-a-channel.md)
+- [10 · Pitfalls](docs/10-pitfalls.md)
 
 ## Status
 
